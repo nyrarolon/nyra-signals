@@ -1,0 +1,170 @@
+{
+  "version": 2,
+  "engine": "crypto_alpha_engine_v2",
+  "timestamp": "2026-08-01T04:29:34.946135+00:00",
+  "compute_time_ms": 958,
+  "pairs": {
+    "ETH/USD": {
+      "signal": "SELL",
+      "confidence": 100,
+      "score": -43.2,
+      "source": "alpha-v2",
+      "details": {
+        "alpha_score": -43.18,
+        "valid_alphas": 69,
+        "raw_alphas": {
+          "alpha101_024": -10.38,
+          "alpha101_053": -2.5248,
+          "alpha101_019": -2.0,
+          "alpha101_039": -2.0,
+          "alpha101_022": 1.3995,
+          "academic_smb": -1.1725,
+          "alpha101_004": -1.0,
+          "alpha101_007": -1.0,
+          "alpha101_013": -1.0,
+          "alpha101_018": -1.0,
+          "alpha101_021": -1.0,
+          "alpha101_033": 1.0,
+          "alpha101_046": -1.0,
+          "alpha101_054": -0.9994,
+          "academic_carhart_mom": 0.9911,
+          "academic_mkt_rf": -0.9542,
+          "academic_strev": 0.9542,
+          "academic_hml": -0.9486,
+          "academic_illiq": -0.8747,
+          "alpha101_090": -0.75
+        },
+        "theme_scores": {
+          "momentum": -24.6,
+          "volume_price": -5.1,
+          "reversal": -37.5,
+          "volatility": -45.1,
+          "pattern": -203.2,
+          "mixed": -14.3
+        }
+      }
+    },
+    "SOL/USD": {
+      "signal": "SELL",
+      "confidence": 81,
+      "score": -20.9,
+      "source": "alpha-v2",
+      "details": {
+        "alpha_score": -20.95,
+        "valid_alphas": 69,
+        "raw_alphas": {
+          "alpha101_019": -1.5,
+          "alpha101_011": 1.2,
+          "academic_bab": 1.0637,
+          "alpha101_004": -1.0,
+          "alpha101_007": -1.0,
+          "alpha101_013": -1.0,
+          "alpha101_015": -1.0,
+          "alpha101_021": -1.0,
+          "alpha101_037": 1.0,
+          "academic_retskew": 0.8641,
+          "academic_illiq": -0.816,
+          "alpha101_054": -0.7962,
+          "alpha101_039": -0.75,
+          "alpha101_056": -0.75,
+          "alpha101_029": 0.7,
+          "alpha101_101": 0.6931,
+          "academic_mkt_rf": -0.642,
+          "academic_strev": 0.642,
+          "alpha101_014": -0.64,
+          "alpha101_016": -0.625
+        },
+        "theme_scores": {
+          "momentum": -17.4,
+          "volume_price": 6.1,
+          "reversal": -50.7,
+          "volatility": -34.4,
+          "pattern": -25.9,
+          "mixed": 0.7
+        }
+      }
+    },
+    "DOGE/USD": {
+      "signal": "SELL",
+      "confidence": 84,
+      "score": -22.9,
+      "source": "alpha-v2",
+      "details": {
+        "alpha_score": -22.95,
+        "valid_alphas": 69,
+        "raw_alphas": {
+          "alpha101_053": -7.9016,
+          "alpha101_031": 2.25,
+          "alpha101_019": -1.75,
+          "alpha101_037": 1.75,
+          "academic_cma": -1.4169,
+          "alpha101_039": -1.3125,
+          "alpha101_029": 1.1,
+          "alpha101_004": -1.0,
+          "alpha101_007": -1.0,
+          "alpha101_013": -1.0,
+          "alpha101_021": -1.0,
+          "alpha101_034": 1.0,
+          "alpha101_046": 1.0,
+          "alpha101_085": 1.0,
+          "alpha101_099": -1.0,
+          "alpha101_054": -0.9903,
+          "alpha101_026": -0.7638,
+          "alpha101_092": 0.7632,
+          "alpha101_018": -0.75,
+          "alpha101_033": 0.75
+        },
+        "theme_scores": {
+          "momentum": -13.6,
+          "volume_price": -23.3,
+          "reversal": -13.9,
+          "volatility": -46.4,
+          "pattern": -40.9,
+          "mixed": -10.6
+        }
+      }
+    },
+    "XLM/USD": {
+      "signal": "SELL",
+      "confidence": 100,
+      "score": -112.6,
+      "source": "alpha-v2",
+      "details": {
+        "alpha_score": -112.61,
+        "valid_alphas": 69,
+        "raw_alphas": {
+          "alpha101_053": -438.4684,
+          "alpha101_037": 1.75,
+          "academic_rmw": -1.4983,
+          "academic_corr_rewire": -1.4628,
+          "academic_high52w": -1.4149,
+          "academic_carhart_mom": -1.3792,
+          "academic_retskew": -1.3688,
+          "academic_bab": -1.3501,
+          "academic_hml": 1.3445,
+          "alpha101_019": 1.25,
+          "academic_mkt_rf": 1.2473,
+          "academic_strev": -1.2473,
+          "alpha101_011": 1.2,
+          "academic_smb": 1.1553,
+          "academic_illiq": 1.1095,
+          "alpha101_007": -1.0,
+          "alpha101_013": -1.0,
+          "alpha101_021": -1.0,
+          "alpha101_046": 1.0,
+          "alpha101_095": 1.0
+        },
+        "theme_scores": {
+          "momentum": -6.4,
+          "volume_price": 14.1,
+          "reversal": -29.1,
+          "volatility": 10.5,
+          "pattern": -1.9,
+          "mixed": -1093.9
+        }
+      }
+    }
+  },
+  "alphas_loaded": 113,
+  "alpha_weights_dynamic": false
+}
