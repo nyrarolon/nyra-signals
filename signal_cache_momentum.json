@@ -1,0 +1,43 @@
+  📋 Loaded scanner config from /Users/neech/projects/kraken-trading-bot/scripts/../configs/scanner_config.json
+{
+  "data_timestamp": "2026-08-02T13:00:52.661426+00:00",
+  "max_age_seconds": 3600,
+  "pairs": {
+    "BTC/USD": {
+      "price": 63052.5,
+      "momentum_score": -7,
+      "signal": "NEUTRAL",
+      "strength": "WEAK",
+      "confidence": 27
+    },
+    "ETH/USD": {
+      "price": 1854.83,
+      "momentum_score": -8,
+      "signal": "NEUTRAL",
+      "strength": "WEAK",
+      "confidence": 28
+    },
+    "SOL/USD": {
+      "price": 72.85,
+      "momentum_score": 5,
+      "signal": "NEUTRAL",
+      "strength": "WEAK",
+      "confidence": 35
+    },
+    "XRP/USD": {
+      "price": 1.0764,
+      "momentum_score": -42,
+      "signal": "BEARISH_MOMENTUM",
+      "strength": "MODERATE",
+      "confidence": 62
+    },
+    "ADA/USD": {
+      "price": 0.1892,
+      "momentum_score": -4,
+      "signal": "NEUTRAL",
+      "strength": "WEAK",
+      "confidence": 24
+    }
+  },
+  "market_regime": "NEUTRAL"
+}
