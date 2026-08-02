@@ -1,5 +1,42 @@
 {
-  "error": "No data available",
-  "pairs": {},
-  "timestamp": "2026-08-02T05:18:38.221662+00:00"
+  "data_timestamp": "2026-08-02T05:55:50.363907+00:00",
+  "max_age_seconds": 3600,
+  "pairs": {
+    "BTC/USD": {
+      "price": 0.0,
+      "momentum_score": 0,
+      "signal": "NEUTRAL",
+      "strength": "WEAK",
+      "confidence": 0
+    },
+    "ETH/USD": {
+      "price": 0.0,
+      "momentum_score": 0,
+      "signal": "NEUTRAL",
+      "strength": "WEAK",
+      "confidence": 0
+    },
+    "SOL/USD": {
+      "price": 0.0,
+      "momentum_score": 0,
+      "signal": "NEUTRAL",
+      "strength": "WEAK",
+      "confidence": 0
+    },
+    "XRP/USD": {
+      "price": 0.0,
+      "momentum_score": 0,
+      "signal": "NEUTRAL",
+      "strength": "WEAK",
+      "confidence": 0
+    },
+    "ADA/USD": {
+      "price": 0.0,
+      "momentum_score": 0,
+      "signal": "NEUTRAL",
+      "strength": "WEAK",
+      "confidence": 0
+    }
+  },
+  "market_regime": "NEUTRAL"
 }
