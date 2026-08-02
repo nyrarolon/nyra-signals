@@ -1,43 +1,43 @@
   📋 Loaded scanner config from /Users/neech/projects/kraken-trading-bot/scripts/../configs/scanner_config.json
 {
-  "data_timestamp": "2026-08-02T20:33:18.693134+00:00",
+  "data_timestamp": "2026-08-02T21:03:28.164486+00:00",
   "max_age_seconds": 3600,
   "pairs": {
     "BTC/USD": {
-      "price": 63370.8,
-      "momentum_score": -43,
-      "signal": "BEARISH_MOMENTUM",
+      "price": 63451.5,
+      "momentum_score": 34,
+      "signal": "BULLISH_MOMENTUM",
       "strength": "MODERATE",
-      "confidence": 63
+      "confidence": 54
     },
     "ETH/USD": {
-      "price": 1880.04,
-      "momentum_score": -37,
+      "price": 1881.4,
+      "momentum_score": -26,
       "signal": "BEARISH_MOMENTUM",
-      "strength": "MODERATE",
-      "confidence": 57
+      "strength": "WEAK",
+      "confidence": 46
     },
     "SOL/USD": {
-      "price": 73.55,
-      "momentum_score": -3,
+      "price": 73.64,
+      "momentum_score": -8,
       "signal": "NEUTRAL",
       "strength": "WEAK",
-      "confidence": 23
+      "confidence": 28
     },
     "XRP/USD": {
-      "price": 1.0799,
-      "momentum_score": -40,
-      "signal": "BEARISH_MOMENTUM",
+      "price": 1.0809,
+      "momentum_score": 40,
+      "signal": "BREAKOUT",
       "strength": "MODERATE",
-      "confidence": 60
+      "confidence": 70
     },
     "ADA/USD": {
-      "price": 0.1882,
-      "momentum_score": -43,
+      "price": 0.1873,
+      "momentum_score": -45,
       "signal": "BEARISH_MOMENTUM",
       "strength": "MODERATE",
-      "confidence": 63
+      "confidence": 65
     }
   },
-  "market_regime": "TREND"
+  "market_regime": "CHOP"
 }
